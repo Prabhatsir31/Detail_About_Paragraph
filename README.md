@@ -1,6 +1,7 @@
 # Detail_About_Paragraph
 
 <h2>Gives the:</h2>
+
 ### Number of Lines
 ### Number of Characters
 ### Number of Words
