@@ -2,7 +2,7 @@
 
 <h2>Gives the:</h2>
 
-  ### Number of Lines
+  #### Number of Lines
 ### Number of Characters
 ### Number of Words
 ### Number of Vowels
