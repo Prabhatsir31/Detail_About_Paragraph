@@ -1,4 +1,4 @@
-# Detail_About_Paragraph
+# Details_About_Paragraph
 
 <h2>Gives the:</h2>
 
