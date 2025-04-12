@@ -16,7 +16,7 @@ public class Paragraph {
                 c++;
             }
         }
-        for(i = 0;i<ch.length;i++){
+        for(i = 0;i < ch.length;i++){
             if(ch[i]=='a' || ch[i]=='e' || ch[i]=='i' || ch[i]=='o' || ch[i]=='u')
                 vowel++;
             else if(ch[i]=='b' || ch[i]=='c' || ch[i]=='d' || ch[i]=='f' || ch[i]=='g' || ch[i]=='h' || ch[i]=='j' || ch[i]=='k' || ch[i]=='l' || ch[i]=='m' || ch[i]=='n' || ch[i]=='p' || ch[i]=='q' || ch[i]=='r' || ch[i]=='s' || ch[i]=='t' || ch[i]=='v' || ch[i]=='w' || ch[i]=='x' || ch[i]=='y' || ch[i]=='z')
