@@ -11,7 +11,7 @@ public class Paragraph {
         lenw = words.length;
         word += lenw;
         lenc = s.length();
-        for(i=0;i<lenc;i++){
+        for(i = 0;i<lenc;i++){
             if(ch[i] != ' '){
                 c++;
             }
