@@ -33,7 +33,7 @@ public class Paragraph {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         String file,content;
-        int lines=0;
+        int lines = 0;
         System.out.print("Enter the name of File : ");
         file = s.nextLine();
         Paragraph obj = new Paragraph();
