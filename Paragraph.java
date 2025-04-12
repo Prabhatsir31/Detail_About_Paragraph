@@ -9,7 +9,7 @@ public class Paragraph {
         char[] ch = ss.toCharArray();
         String[] words = s.split(" ");
         lenw = words.length;
-        word +=lenw;
+        word += lenw;
         lenc = s.length();
         for(i=0;i<lenc;i++){
             if(ch[i] != ' '){
