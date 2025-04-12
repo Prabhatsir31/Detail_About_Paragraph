@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+
 public class Paragraph {
     static int c,word,vowel=0,consonant=0,digit=0,symbol=0,space=0;
     void character(String s){
@@ -28,6 +29,7 @@ public class Paragraph {
                 symbol++;
         }
     }
+    
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         String file,content;
